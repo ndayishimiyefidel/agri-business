@@ -1,0 +1,17 @@
+.imageContent {
+    position: absolute;
+    bottom: 0;
+    /* Black background with 0.5 opacity */
+    width: 100%;
+    padding: 20px;
+    background: #26AE72;
+    opacity: 0.8;
+    /* margin-top: -6cm;
+    */
+}
+
+.imageContent h5 {
+    color: #fff;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
